@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_arrow_back_black_24dp.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_close_blue_24dp.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_delete_forever_black_24dp.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_error_black_24dp.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_launcher_mercadolibre.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_mercado_libre_logo.xml" value="0.1365" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_mercadolibreiconaso.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_search_mercado_24dp.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_search_white_24dp.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_send_blue_24dp.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_shopping_cart_black_24dp.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_star_black_24dp.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/ic_star_border_black_24dp.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/radius.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/scroll_desc.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/selector_chebox.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable-v24/splashscreen.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1625" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable/ic_mercado_libre_logo.xml" value="0.1365" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/drawable/selector_favourite.xml" value="0.16" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/activity_main.xml" value="0.278125" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/activity_splash_screen.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/fragment_description.xml" value="0.25" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/fragment_favourite.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/item_favourite.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/item_pictures.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/item_product.xml" value="0.2661637931034483" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/items.xml" value="0.25" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/selector_favourite.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/splashscreen.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/layout/view_search.xml" value="0.38589211618257263" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/menu/menu.xml" value="0.27395833333333336" />
+        <entry key="..\:/Users/gmati/AndroidStudioProjects/CleanArquitecture_MercadoLibre/app/src/main/res/mipmap-anydpi-v26/ic_search_round.xml" value="0.1625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
